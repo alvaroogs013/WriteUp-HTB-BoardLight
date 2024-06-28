@@ -1,4 +1,3 @@
-```html
 <h1>Enumeration</h1>
 <p>We begin the enumeration of the victim machine by running a ping to the target IP 10.10.11.11 to check if the machine is active:</p>
 <p align="center">
